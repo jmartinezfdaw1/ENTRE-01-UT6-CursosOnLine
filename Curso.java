@@ -35,7 +35,7 @@ public class Curso
 	private String capitalizarNombre(String nombre) {
 
 		 
-		return "";
+		return null;
 
 	}
 
