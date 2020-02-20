@@ -2,7 +2,6 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 /**
- *  JON MARTINEZ
  *  Modela un curso ofrecido por la plataforma
  *  on line
  */
